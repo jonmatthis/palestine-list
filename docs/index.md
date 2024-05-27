@@ -70,9 +70,7 @@ icon in the top-left or go to View → Show Outline. If you see neither of those
 * A comprehensive and scholarly exploration of the history of Palestine, stretching from the ancient past to the modern era. Masalha, a Palestinian historian, challenges conventional narratives that often begin the history of Palestine with the Roman Empire or the advent of Zionism, or limit it to the narrow confines of the Israeli-Palestinian conflict. Instead, he presents a deep historical account that underscores the rich and continuous presence of indigenous cultures, peoples, and civilizations in Palestine over millennia.
 * Runner up by Nur Masalha: [The Palestine Nakba Decolonising History, Narrating the Subaltern, Reclaiming Memory](https://www.thriftbooks.com/w/the-palestine-nakba-decolonising-history-narrating-the-subaltern-reclaiming-memory_nur-masalha/14072841/#edition=14916459&idiq=26308336) (2012). Explores “social history from below”, subaltern narratives of memory and the formation of collective identity. Masalha argues that to write more truthfully about the Nakba is not just to practise a professional historiography but an ethical imperative. The struggles of ordinary refugees to recover and publicly assert the truth about the Nakba is a vital way of protecting their rights and keeping the hope for peace with justice alive.
 
-#### \
-
-Non-Fiction
+#### Non-Fiction
 
 * Edward Said
 
@@ -341,9 +339,7 @@ Non-Fiction
 * [Tethered to Stars: Poems](https://milkweed.org/book/tethered-to-stars) by Fady Joudah (2021)
 * [Stranger](https://www.vehiculepress.com/q.php?EAN=9781550654547) by Nyla Matuk (2016)
 
-#### \
-
-Cookbooks
+#### Cookbooks
 
 * ⭐[Falastin: A Cookbook](https://www.penguinrandomhouse.com/books/570405/falastin-by-sami-tamimi-and-tara-wigley-foreword-by-yotam-ottolenghi/) By Sami Tamimi and Tara Wigley
 * [Palestine on a Plate: Memories From My Mother&#39;s Kitchen by Joudie Kalla](https://www.middleeastbooks.com/collections/cookbooks/products/palestine-on-a-plate-memories-from-my-mothers-kitchen-by-joudie-kalla)
@@ -358,9 +354,7 @@ Cookbooks
 * [A Taste of Palestine: Menus and Memories by Aziz Shihab](https://www.thriftbooks.com/w/a-taste-of-palestine-menus-and-memories_aziz-shihab/464843/)
 * [Classic Palestinian Cuisine ](https://saqibooks.com/books/saqi/classic-palestinian-cuisine/)by Christiane Dabdoub Nasser
 
-#### \
-
-Other Palestine Reading Lists
+#### Other Palestine Reading Lists
 
 1. ⭐[Reading list | Decolonize Palestine](https://decolonizepalestine.com/reading-list/)
 2. **⭐**[Books for Students | Teach Palestine](https://teachpalestine.org/resources/books/)
