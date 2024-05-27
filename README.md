@@ -47,17 +47,21 @@ icon in the top-left or go to View → Show Outline. If you see neither of those
 ##### ⭐[The Ethnic Cleansing of Palestine](https://bookshop.org/a/104178/9781851685554) by Ilan Pappé (2006)
 
 * A groundbreaking work that offers a comprehensive and critical analysis of the events leading up to and following the establishment of the State of Israel in 1948, a period that saw the mass displacement of Palestinian Arabs. Pappé, an Israeli historian and a senior lecturer at the University of Haifa at the time of publication, uses a wide array of sources, including newly declassified Israeli military archives and personal diaries, to show how the flight of over 700,000 Palestinian Arabs was the result of a deliberate policy of ethnic cleansing orchestrated by Zionist leaders.
-* Runner up by Ilan Pappé: **[Ten Myths About Israel](https://bookshop.org/p/books/ten-myths-about-israel-ilan-pappe/12020111?ean=9781786630193) (2017) **addresses the following myths:** 
-  **1. Palestine was an empty land 
-  2. The Jews were a people without a land 
-  3. Zionism is Judaism 
-  4. Zionism is not colonialism 
-  5. The Palestinians voluntarily left their homeland in 1948 
-  6. The June 1967 war was a war of ‘No Choice’ 
-  7. Israel is the only democracy in the Middle East 
-  8. The Oslo Mythologies 
-  9. The Gaza Mythologies 
-  10. The Two-States Solution is the only way forward
+
+  * Runner up by Ilan Pappé:
+     
+    * **[Ten Myths About Israel](https://bookshop.org/p/books/ten-myths-about-israel-ilan-pappe/12020111?ean=9781786630193) (2017)
+    addresses the following myths:** 
+      1. Palestine was an empty land 
+      2. The Jews were a people without a land 
+      3. Zionism is Judaism 
+      4. Zionism is not colonialism 
+      5. The Palestinians voluntarily left their homeland in 1948 
+      6. The June 1967 war was a war of ‘No Choice’ 
+      7. Israel is the only democracy in the Middle East 
+      8. The Oslo Mythologies 
+      9. The Gaza Mythologies 
+      10. The Two-States Solution is the only way forward
 
 ##### ⭐[Palestine: A Four Thousand Year History](https://bookshop.org/a/104178/9780755649426) by Nur Masalha (2018)
 
@@ -70,14 +74,14 @@ Non-Fiction
 
 * Edward Said
 
-**⭐[The Question of Palestine](https://www.penguinrandomhouse.com/books/159795/the-question-of-palestine-by-edward-w-said/) (1979) **
+**⭐[The Question of Palestine](https://www.penguinrandomhouse.com/books/159795/the-question-of-palestine-by-edward-w-said/) (1979)**
 
-    *[The Politics of Dispossession ](https://www.penguinrandomhouse.com/books/159794/the-politics-of-dispossession-by-edward-w-said/)(1995)
-    * [Peace And Its Discontents: Essays on Palestine in the Middle East Peace Process](https://www.middleeastbooks.com/products/peace-and-its-discontents-essays-on-palestine-in-the-middle-east-peace-process-by-edward-w-said) (1996)
-    * [After the Last Sky: Palestinian Lives Edward Said (Author) Jean Mohr (Photographer)](https://bookshop.org/a/104178/9780231114493) 1999
-    * [Blaming the Victims: Spurious Scholarship and the Palestinian Question](https://www.middleeastbooks.com/collections/palestine-israel-books/products/blaming-the-victims-spurious-scholarship-and-the-palestinian-question-by-edward-w-said) (2001)
-    * [The End of the Peace Process  Oslo and After](https://www.penguinrandomhouse.com/books/159792/the-end-of-the-peace-process-by-edward-w-said/) (2001)
-    * [From Oslo to Iraq and the Road Map: Essays](https://www.middleeastbooks.com/collections/palestine-israel-books/products/from-oslo-to-iraq-and-the-road-map-essays-by-edward-said) (2005)
+  *[The Politics of Dispossession ](https://www.penguinrandomhouse.com/books/159794/the-politics-of-dispossession-by-edward-w-said/)(1995)
+  * [Peace And Its Discontents: Essays on Palestine in the Middle East Peace Process](https://www.middleeastbooks.com/products/peace-and-its-discontents-essays-on-palestine-in-the-middle-east-peace-process-by-edward-w-said) (1996)
+  * [After the Last Sky: Palestinian Lives Edward Said (Author) Jean Mohr (Photographer)](https://bookshop.org/a/104178/9780231114493) 1999
+  * [Blaming the Victims: Spurious Scholarship and the Palestinian Question](https://www.middleeastbooks.com/collections/palestine-israel-books/products/blaming-the-victims-spurious-scholarship-and-the-palestinian-question-by-edward-w-said) (2001)
+  * [The End of the Peace Process  Oslo and After](https://www.penguinrandomhouse.com/books/159792/the-end-of-the-peace-process-by-edward-w-said/) (2001)
+  * [From Oslo to Iraq and the Road Map: Essays](https://www.middleeastbooks.com/collections/palestine-israel-books/products/from-oslo-to-iraq-and-the-road-map-essays-by-edward-said) (2005)
 
 * Norman Finkelstein
   * [Image and Reality of the Israel-Palestine Conflict](https://www.palestine-studies.org/en/node/40440) (1995)
@@ -146,9 +150,7 @@ Non-Fiction
 * [The Origins of Palestinian Nationalism by Muhammad Muslih | Institute for Palestine Studies](https://www.palestine-studies.org/en/node/1649738) (2005)
 * [Justice for Some: Law and the Question of Palestine - Noura Erakat ](https://www.sup.org/books/title/?id=26507) (2019)
 
-##### \
-
-History books specifically by or about Jews (by request)
+##### History books specifically by or about Jews (by request)
 
 * ⭐[Ashkenazi Herbalism by Deatra Cohen, Adam Siegel](https://www.penguinrandomhouse.com/books/659313/ashkenazi-herbalism-by-deatra-cohen/) (2021)
 * [Jews in Early Modern Poland](https://www.abebooks.com/9781874774310/Polin-Studies-Polish-Jewry-Volume-1874774315/plp), edited by Gershon David Hundert, 1997
@@ -190,9 +192,7 @@ History books specifically by or about Jews (by request)
   * [A Bundist Comments on History As It Was Being Made - Zelmanowicz, Motl](https://www.abebooks.com/9781436392679/Bundist-Comments-History-Being-Made-1436392675/plp) (2009)
   * [Jewish Socialist Movements, 1871-1917: While Messiah Tarried by Nora Levin ](https://www.goodreads.com/book/show/3785447-jewish-socialist-movements-1871-1917)(1985)
 
-#### \
-
-Adult Fiction
+#### Adult Fiction
 
 1. **⭐**[Mornings in Jenin](https://rep.club/products/mornings-in-jenin) by Susan Abulhawa
 2. **⭐**[The Free People&#39;s Village](https://www.levinequerido.com/the-free-peoples-village) by Sim Kern
@@ -285,7 +285,7 @@ Adult Fiction
 
 ###### **⭐**[Join the yearlong Palestine poetry subscription service at Open Books](https://open-books-a-poem-emporium.myshopify.com/collections/subscription-service)
 
-    * Curated by[Lena Khalaf Tuffaha](https://www.lenakhalaftuffaha.com/)  \
+> Curated by [Lena Khalaf Tuffaha](https://www.lenakhalaftuffaha.com/)  \
 
 * ⭐Mahmoud Darwish
   * **⭐**[The Dice Player | An Animated Poetry Film](https://vimeo.com/69830884) (2013)
